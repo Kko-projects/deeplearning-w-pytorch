@@ -2,6 +2,12 @@
 
 This repository contains my PyTorch deep learning study notes, experiments, and model training examples using datasets like MNIST.
 
+### 🧠 Core Concepts
+- 01 ~ 04
+
+### 🔢 Classification Models
+- 05 ~ 08
+
 ## 📘 Notebooks
 
 | No. | Notebook | Description |
