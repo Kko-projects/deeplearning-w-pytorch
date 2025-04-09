@@ -13,6 +13,7 @@ This repository contains my PyTorch deep learning study notes, experiments, and 
 | 05  | `05_binary_classification_circles.ipynb` | Nonlinear classification with synthetic data |
 | 06  | `06_mnist_training_and_confusion.ipynb` | MNIST training and confusion matrix evaluation |
 | 07  | `07_mnist_batchnorm_models.ipynb` | BatchNorm applied to fully connected and conv models |
+| 08  | `08_cifar10_mlp_vs_vgg.ipynb`            | CIFAR-10 classification using MLP and VGG models          |
 
 
 
