@@ -1,6 +1,9 @@
 # Deep Learning with PyTorch 🧠🔥
 
-This repository contains my PyTorch deep learning study notes, experiments, and model training examples using datasets like MNIST.
+This project is a curated collection of PyTorch-based deep learning experiments and implementations.  
+It covers fundamental operations as well as model training pipelines on datasets like MNIST and CIFAR-10.  
+Models include fully-connected networks (MLP), convolutional networks (VGG, ResNet18), and efficient architectures like MobileNetV2.
+
 
 ### 🧠 Core Concepts
 - 01 ~ 04
@@ -32,3 +35,12 @@ This repository contains my PyTorch deep learning study notes, experiments, and 
 - Jupyter / Google Colab
 - NumPy, Pandas, Matplotlib, Seaborn
 - scikit-learn (for evaluation reports & confusion matrix)
+
+
+## 🗂 Datasets
+
+This project uses:
+- **MNIST**: 28x28 grayscale digits for basic classification tasks.
+- **CIFAR-10**: 32x32 RGB images from 10 categories (e.g., airplane, cat, truck).
+
+All datasets are automatically downloaded via `torchvision.datasets`.
