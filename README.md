@@ -22,6 +22,7 @@ This repository contains my PyTorch deep learning study notes, experiments, and 
 | 08  | `08a_cifar10_MLP.ipynb`         | CIFAR-10 classification using MLP model              |
 | 08  | `08b_cifar10_VGG.ipynb`         | CIFAR-10 classification using VGG model              |
 | 09  | `08c_cifar10_ResNet18.ipynb`     | CIFAR-10 classification using ResNet18 with custom implementation |
+| 10  | `08d_cifar10_MobileNet.ipynb`    | CIFAR-10 classification using MobileNetV2 (custom built) |
 
 
 
@@ -30,3 +31,4 @@ This repository contains my PyTorch deep learning study notes, experiments, and 
 - Python (PyTorch, torchvision, torch.nn, torch.optim)
 - Jupyter / Google Colab
 - NumPy, Pandas, Matplotlib, Seaborn
+- scikit-learn (for evaluation reports & confusion matrix)
