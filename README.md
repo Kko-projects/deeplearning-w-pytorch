@@ -10,6 +10,7 @@ Models include fully-connected networks (MLP), convolutional networks (VGG, ResN
 
 ### 🔢 Classification Models
 - 05 ~ 08
+- 09: Transfer learning with pretrained models (VGG16)
 
 ## 📘 Notebooks
 
@@ -26,6 +27,7 @@ Models include fully-connected networks (MLP), convolutional networks (VGG, ResN
 | 08  | `08b_cifar10_VGG.ipynb`         | CIFAR-10 classification using VGG model              |
 | 09  | `08c_cifar10_ResNet18.ipynb`     | CIFAR-10 classification using ResNet18 with custom implementation |
 | 10  | `08d_cifar10_MobileNet.ipynb`    | CIFAR-10 classification using MobileNetV2 (custom built) |
+| 11  | `09_Transfer_Learning.ipynb`     | Flower classification using transfer learning with VGG16 |
 
 
 
@@ -42,5 +44,6 @@ Models include fully-connected networks (MLP), convolutional networks (VGG, ResN
 This project uses:
 - **MNIST**: 28x28 grayscale digits for basic classification tasks.
 - **CIFAR-10**: 32x32 RGB images from 10 categories (e.g., airplane, cat, truck).
+- **Flowers Dataset (from Udacity)**: ~4,000 color images in 5 classes: `daisy`, `dandelion`, `roses`, `sunflowers`, and `tulips`.
 
 All datasets are automatically downloaded via `torchvision.datasets`.
