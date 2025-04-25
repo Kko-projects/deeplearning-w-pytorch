@@ -12,6 +12,14 @@ Models include fully-connected networks (MLP), convolutional networks (VGG, ResN
 - 05 ~ 08
 - 09: Transfer learning with pretrained models (VGG16)
 
+### 🖼️ Object Detection Experiments
+This section contains object detection experiments using pre-trained models such as:
+
+- 10: NVIDIA SSD (Single Shot Multibox Detector)
+- 🔜 YOLOv5 (Coming soon)
+- 🔜 Faster R-CNN (Coming soon)
+
+
 ## 📘 Notebooks
 
 | No. | Notebook | Description |
@@ -28,6 +36,7 @@ Models include fully-connected networks (MLP), convolutional networks (VGG, ResN
 | 09  | `08c_cifar10_ResNet18.ipynb`     | CIFAR-10 classification using ResNet18 with custom implementation |
 | 10  | `08d_cifar10_MobileNet.ipynb`    | CIFAR-10 classification using MobileNetV2 (custom built) |
 | 11  | `09_Transfer_Learning.ipynb`     | Flower classification using transfer learning with VGG16 |
+| 12  | `10a_SSD_object_detection.ipynb` | SSD object detection using NVIDIA TorchHub and COCO images |
 
 
 
